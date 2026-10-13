@@ -1,0 +1,21 @@
+# Archivos generados por .NET
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración local
+.env
+.env.*
+!.env.example
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
